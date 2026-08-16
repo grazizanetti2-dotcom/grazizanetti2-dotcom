@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
  
 - 🎓 Estudante de Engenharia de Software (Universidade Cruzeiro do Sul Virtual)
-- 💻 Foco atual: desenvolvimento backend com **Java** e **Spring Boot**, com apoio em **Python**
+- 💻 Foco atual: desenvolvimento backend com **Java** e **Spring Boot**
 - 🔍 Em transição de carreira, buscando minha primeira oportunidade como Engenharia de Software / Desenvolvedora Jr.
 - 🌱 Aprendo praticando, cada projeto aqui nasceu de tentativa, erro e leitura de documentação oficial (Oracle JDK, Spring.io)
 ---
