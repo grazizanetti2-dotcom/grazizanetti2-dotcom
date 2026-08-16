@@ -11,7 +11,7 @@
 - 🎓 Estudante de Engenharia de Software (Universidade Cruzeiro do Sul Virtual)
 - 💻 Foco atual: desenvolvimento backend com **Java** e **Spring Boot**, com apoio em **Python**
 - 🔍 Em transição de carreira, buscando minha primeira oportunidade como Engenharia de Software / Desenvolvedora Jr.
-- 🌱 Aprendo fazendo — cada projeto aqui nasceu de tentativa, erro e leitura de documentação oficial (Oracle JDK, Spring.io)
+- 🌱 Aprendo praticando, cada projeto aqui nasceu de tentativa, erro e leitura de documentação oficial (Oracle JDK, Spring.io)
 ---
  
 ## 🛠️ Stack & Tecnologias
@@ -35,6 +35,7 @@
 **Testes & Modelagem**
 - JUnit 5, Mockito
 - UML, BPMN, Figma (prototipação)
+- Spring Boot
 **Em estudo ativo** 📚
 - Cloud: Microsoft AZ-900
 - ITIL Foundation, CompTIA A+
