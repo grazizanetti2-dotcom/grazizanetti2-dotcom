@@ -30,7 +30,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
  
 **Testes & Modelagem**
 - JUnit 5, Mockito
@@ -45,14 +44,10 @@
 ## 📌 Projetos em destaque
  
 ### 🏦 Sistema Bancário — API REST com Spring Boot
-Projeto backend evoluindo de uma versão em console (estruturas de dados em Java: HashMap, Stack, Queue) para uma API REST completa com **Spring Boot 3**, **PostgreSQL**, testes automatizados (JUnit/Mockito) e documentação via Swagger. Implementa regras de negócio reais, como validação de CPF e transferência via Pix com validação transacional de saldo.
+Projeto backend evoluindo de uma versão em console (estruturas de dados em Java) para uma API REST completa com **Spring Boot 4.1**, **H2** e testes automatizados (JUnit/Mockito). Implementa regras de negócio reais, como validação de CPF e transferência via Pix com validação transacional de saldo.
  
-🔗 `[link do repositório aqui]`
+🔗 `(https://github.com/grazizanetti2-dotcom/SistemaBancarioSpring.git)`
  
-### 🏥 SGPD — Sistema de Gestão de Processos Digitais
-Projeto acadêmico de modelagem de sistemas para uma clínica médica: levantamento de requisitos funcionais e não funcionais, diagramas UML (classes, casos de uso, sequência), diagrama de atividades em BPMN e protótipo interativo no Figma com 8 telas navegáveis.
- 
-🔗 `[link do repositório aqui]` · `[link do protótipo Figma aqui]`
  
 ---
  
