@@ -46,7 +46,7 @@
 ### 🏦 Sistema Bancário — API REST com Spring Boot
 Projeto backend evoluindo de uma versão em console (estruturas de dados em Java) para uma API REST completa com **Spring Boot 4.1**, **H2** e testes automatizados (JUnit/Mockito). Implementa regras de negócio reais, como validação de CPF e transferência via Pix com validação transacional de saldo.
  
-🔗 `(https://github.com/grazizanetti2-dotcom/SistemaBancarioSpring.git)`
+🔗 https://github.com/grazizanetti2-dotcom/SistemaBancarioSpring.git
  
  
 ---
